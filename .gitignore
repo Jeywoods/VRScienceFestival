@@ -23,3 +23,16 @@ Thumbs.db
 
 *.tmp
 *.log
+
+!/[Aa]ssets/**/*.meta
+!/[Pp]rojectSettings/**/*.meta
+
+*.fbx
+*.obj
+*.blend
+*.psd
+*.tga
+*.png
+*.wav
+*.mp3
+*.mp4
