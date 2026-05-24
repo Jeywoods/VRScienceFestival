@@ -10,8 +10,7 @@ VR-игра, в которой нужно найти красные шарики
 4. **Забери приз** — внутри тебя ждёт кубок.
 
 ## 🎥 Видео
-
-[Видеообзор]([[VRGameplay.mp4](https://youtu.be/Tv9vczORhII)](https://youtu.be/Tv9vczORhII))
+[![Видеообзор](https://img.youtube.com/vi/Tv9vczORhII/0.jpg)](https://youtu.be/Tv9vczORhII)
 
 ## 🛠️ Технологии
 
