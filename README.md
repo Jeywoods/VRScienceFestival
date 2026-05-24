@@ -11,7 +11,7 @@ VR-игра, в которой нужно найти красные шарики
 
 ## 🎥 Видео
 
-[Видеообзор]([VRGameplay.mp4](https://youtu.be/Tv9vczORhII))
+[Видеообзор]([[VRGameplay.mp4](https://youtu.be/Tv9vczORhII)](https://youtu.be/Tv9vczORhII))
 
 ## 🛠️ Технологии
 
